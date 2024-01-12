@@ -22,8 +22,13 @@ The core of our methodology involves meticulous processing of transcribed text t
 To elevate accuracy and ensure a nuanced understanding of emotional states, we harness the power of Ensemble Methods for Classification. The combination of multiple machine learning algorithms through ensemble techniques enhances the overall performance of our emotion detection model.
 
 
-## Contribution Guidelines
+## Contributing
 
-We welcome contributions! If you find any issues or have ideas for improvements, please submit a pull request or open an issue.
+Contributions are always welcome!
+
+If you find any issues or have suggestions for improvement, please submit an issue or create a pull request. Make sure to follow the project's code of conduct.
+
+## Contact
+For any inquiries or questions, feel free to contact the project maintainers at sarthak.agase@gmail.com
 
 Happy coding! 🚀🤖
